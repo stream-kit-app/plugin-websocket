@@ -11,5 +11,5 @@
   "streamKitVersion": ">=0.1.0",
   "updateManifestUrl": "https://raw.githubusercontent.com/stream-kit-app/plugin-websocket/main/manifest.json",
   "downloadUrl": "https://github.com/stream-kit-app/plugin-websocket/releases/download/v0.1.1-alpha.2/plugin-websocket.zip",
-  "sha256": "099f7c0b9c6586b863cb6fb850311ab6bd8cd4034c4acc360467a60277fdd532"
+  "sha256": "9dcf41bfe1870c1ab3f4d2b1584361b03b85e2de1711502585547d0a9d336979"
 }

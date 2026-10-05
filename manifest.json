@@ -1,13 +1,13 @@
 {
   "key": "websocket",
   "name": "WebSocket",
-  "version": "0.2.0-alpha.7",
+  "version": "0.2.0-alpha.8",
   "description": "Persistent WebSocket connections with action triggers.",
   "icon": "ri:links-line",
   "entry": "dist/index.js",
   "dependencies": [],
   "streamKitVersion": ">=0.1.0",
   "updateManifestUrl": "https://raw.githubusercontent.com/stream-kit-app/plugin-websocket/main/manifest.json",
-  "downloadUrl": "https://github.com/stream-kit-app/plugin-websocket/releases/download/v0.2.0-alpha.7/plugin-websocket.zip",
-  "sha256": "bc5a86a52e4fceb268374d24534ff9688012b2c8345cd83c08327f991ddab78b"
+  "downloadUrl": "https://github.com/stream-kit-app/plugin-websocket/releases/download/v0.2.0-alpha.8/plugin-websocket.zip",
+  "sha256": "2302cd71d39782ffed7a9d643697c1746828b57aa04df7ef799e26cb5d6d2df4"
 }
